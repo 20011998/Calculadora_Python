@@ -30,3 +30,7 @@ Para executar a calculadora localmente, siga os passos abaixo:
     *(Nota: O nome do seu arquivo principal da calculadora será `calculadora.py`)*
 
 ## Estrutura do Projeto
+calculadora-python/
+├── .gitignore
+├── README.md
+└── calculadora.py
